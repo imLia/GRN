@@ -5,7 +5,7 @@ body{
 }
 
 @page {
-    margin: 1cm 0.5cm; padding-top: 0cm;
+    margin: 1.2cm 0.5cm; padding-top: 0cm;
     font-size: 0.7em;
     font-family: Calibri, serif;
     @top-left {
